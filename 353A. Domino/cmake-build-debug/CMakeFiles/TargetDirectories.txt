@@ -1,0 +1,3 @@
+D:/C++/Codeforces/353A Domino/cmake-build-debug/CMakeFiles/353A_Domino.dir
+D:/C++/Codeforces/353A Domino/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Codeforces/353A Domino/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508944964 source:d:\c++\olympiad codes\192a. funky numbers\main.cpp
+	<bits/stdc++.h>
+	"../../mylibrary.h"
+
+1508776384 d:\c++\mylibrary.h
+	<bits/stdc++.h>
+
+1508945774 source:d:\c++\codeforces\192a. funky numbers\main.cpp
+	<bits/stdc++.h>
+

@@ -1,0 +1,3 @@
+D:/C++/Codeforces/868A. Bark to Unlock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/C++/Codeforces/868A. Bark to Unlock/cmake-build-debug/CMakeFiles/868A__Bark_to_Unlock.dir
+D:/C++/Codeforces/868A. Bark to Unlock/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2017.1.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\C++\Codeforces\867C. Ordering Pizza"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/C++/Codeforces/867C. Ordering Pizza/cmake-build-debug

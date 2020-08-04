@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504031121 source:d:\c++\codeforces\840c on the bench\main.cpp
+	<iostream>
+	<math.h>
+

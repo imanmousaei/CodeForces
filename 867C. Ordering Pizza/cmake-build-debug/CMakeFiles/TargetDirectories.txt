@@ -1,0 +1,3 @@
+D:/C++/Codeforces/867C. Ordering Pizza/cmake-build-debug/CMakeFiles/867C__Ordering_Pizza.dir
+D:/C++/Codeforces/867C. Ordering Pizza/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Codeforces/867C. Ordering Pizza/cmake-build-debug/CMakeFiles/rebuild_cache.dir
